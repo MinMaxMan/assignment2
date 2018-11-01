@@ -1,0 +1,47 @@
+#topbar {
+	background-color: #efe5c9;
+	padding: 15px;
+	position: sticky;
+	top: 0px;
+}
+
+#navlink {
+	background-color: #cdc3a7;
+	padding: 5px;
+}
+
+#shop {
+	display: block;
+	height: 80%;
+	width: 75%;
+	border: 2px solid grey;
+	position: absolute;
+	left: 12.5%;
+	margin-bottom: 10%;
+}
+
+#searchmenu {
+	position: absolute;
+	right: 1%;
+}
+
+#searchresult {
+	position: relative;
+}
+
+#info {
+	display: block;
+	position: relative;
+	width: 90%;
+	margin-left: 5%;
+	margin-bottom: 10%
+}
+
+#disclaimer {
+	display: block;
+	position: fixed;
+	bottom: 1%;
+	text-align: center;
+	width: 90%;
+}
+
